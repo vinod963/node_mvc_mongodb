@@ -1,0 +1,13 @@
+References:
+---------------
+
+https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/ 
+https://wanago.io/2018/12/10/express-mongodb-typescript-env-var/
+https://medium.com/@Pierre_anthill/typescript-expressjs-api-with-webpack-4655126d884b   //Webpack
+
+
+
+Commands to run: (2 prompts at a time)
+----------------------------------------
+Prompt1: npm run build
+Prompt2: npm run start
