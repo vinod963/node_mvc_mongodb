@@ -4,7 +4,7 @@ Node MVC Architecture with typescript, mongoose, webpack
 
 A Complete Node archtecture by the following features
 
-Added Webpack
-Mongoose
-Typescript
-MVC
+1. Added Webpack
+2. Mongoose
+3. Typescript
+4. MVC
